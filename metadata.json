@@ -1,0 +1,7 @@
+{
+  "name": "我的衣橱 (My Wardrobe)",
+  "description": "智能衣橱管理助手。AI识别衣物、虚拟试穿、个性化穿搭推荐。",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
